@@ -10,6 +10,9 @@ then...
 # How to uses it
 
 ```
+
+import { addactiveclass } from addactiveclass;
+
 addactiveclass({
     arrayClass: 'navButtons' // the common class of all buttons,
     activeClass: 'active' // the class name to add to the selected
